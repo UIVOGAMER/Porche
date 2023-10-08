@@ -9,3 +9,41 @@
 --apricot: #ffcab1ff;
 
 }
+
+ body {
+    background-color: #000000;
+ }
+p {
+    background-color: #fff;
+}
+
+h1 {
+    background-color: #fff; 
+    
+    font-family: Comic Sans MS;
+}
+h2 {
+    background-color: #fff;
+}
+h3 {
+    background-color: #fff;
+}
+h4 {
+    background-color: #fff;
+}
+ul{
+    background-color: #fff;
+
+    font-size: 2rem;
+  li{
+    font-size: 2rem;
+  }
+}
+form{
+    background-color: #fff;
+
+}fieldset{
+    background-color: #fff;
+}legend{
+    background-color: #fff;
+}
